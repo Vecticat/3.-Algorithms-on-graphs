@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+week1_graph_decomposition1/week1_graph_decomposition1.pdf
+week2_graph_decomposition2/week2_graph_decomposition2.pdf
+week3_paths_in_graphs1/week3_paths_in_graphs1.pdf
+week4_paths_in_graphs2/week4_paths_in_graphs2.pdf
+week5_spanning_trees/week5_spanning_trees.pdf
+python_implementations/test.ipynb
+python_implementations/graph_implementation.py
