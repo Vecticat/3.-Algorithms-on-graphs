@@ -5,6 +5,7 @@ class EzGraph():
     """
     Implementation of graph class with basic methods.
     Vertices of graph are represented as integers from 0 to n.
+    Hello
     """
     def __init__(self, adj_input, egde_list):
         self.adj_input = adj_input
